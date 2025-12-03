@@ -26,6 +26,7 @@
 - [Filter Lab (Microchip)](https://filterlab.microchip.com/filter)
 - [Analog Filter Wizard (Analog Devices)](https://tools.analog.com/en/filterwizard/)
 - [Microstrip Filter Design Tool (Markimicrowave)](https://markimicrowave.com/technical-resources/tools/microstrip-filter-design-tool)
+- [Butterworth vs. Chebyshev Bandpass Filter Response (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/butterworth-vs-chebyshev-bandpass-filter-response)
   
 ### Inductors / Transformers / (PSUs)
 - [RF Impedance Matching Calculator (Analog Devices)](https://www.analog.com/en/resources/interactive-design-tools/rf-impedance-matching-calculator.html)
@@ -35,6 +36,8 @@
 - [EE-Sim® Power Tools (Analog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ee-sim.html)
   1. [EE-SIM Design and Simulation Environment (Analog Devices)](https://www.analog.com/media/en/technical-documentation/user-guides/eesim-design-and-simulation-environment-user-guide.pdf)
 - [EE-Sim Solution Finder (Analog Devices)](https://tools.analog.com/en/eesim/)
+- [Noise Figure Temperature (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/noise-figure-and-noise-temperature-calculator)
+
 
 ### Signals, RF & Measurement
 - [ADI Precison Studio (Analog Devices)](https://tools.analog.com/en/precisionstudio/)
