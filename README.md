@@ -141,16 +141,17 @@
 3. [ESP Application Notes](https://sound-au.com/appnotes/index.html) <sup>[note: various. from converters, motors, detection circuits and analog meters to high-power zener diodes]</sup>
 
 
-### "[Fun With Tubes](https://www.angelfire.com/electronic/funwithtubes/)" (Max Robinson)
-1. Fundamentals
+### "Fun with Tubes" (Max Robinson)
+1. Index: [Fun With Tubes](https://www.angelfire.com/electronic/funwithtubes/)
+2. Fundamentals
   - [DC Circuits Basics / Cheat-sheet](https://www.angelfire.com/electronic/funwithtubes/Basics_01_DC_Circs.html)
   - [AC Circuits Basics / Cheat-sheet](https://www.angelfire.com/electronic/funwithtubes/Basics_02_AC_Circs.html)
   - [Grounds](https://www.angelfire.com/electronic/funwithtubes/Grounds.html)
-2. Vacuum Tubes
+3. Vacuum Tubes
   - [Vacuum Diodes](https://www.angelfire.com/electronic/funwithtubes/Basics_03_Diodes.html)
   - [Vacuum Triodes](https://www.angelfire.com/electronic/funwithtubes/Basics_04_Triodes.html)
   - [Multi-grid Tubes](https://www.angelfire.com/electronic/funwithtubes/Basics_05_Multigrid.html)
-3. Instruments / Lab Equipment
+4. Instruments / Lab Equipment
   - [Bench Power Supplies](https://www.angelfire.com/electronic/funwithtubes/bench_psu.html) <sup>[note: somewhat dated, check EEVBlog and ESP/sound-au]</sup>
 
 
