@@ -24,7 +24,7 @@
   
 ### Filters
 - [Filter Lab (Microchip)](https://filterlab.microchip.com/filter)
-- [Analog Filter Wizard (Analog Devices)[https://tools.analog.com/en/filterwizard/]
+- [Analog Filter Wizard (Analog Devices)](https://tools.analog.com/en/filterwizard/)
 - [Microstrip Filter Design Tool (Markimicrowave)](https://markimicrowave.com/technical-resources/tools/microstrip-filter-design-tool)
   
 ### Inductors / Transformers / (PSUs)
