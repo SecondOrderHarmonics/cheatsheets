@@ -153,7 +153,8 @@
 3. Instruments / Lab Equipment
   - [Bench Power Supplies](https://www.angelfire.com/electronic/funwithtubes/bench_psu.html) <sup>[note: somewhat dated, check EEVBlog and ESP/sound-au]</sup>
 
-<p align="center">![image](src/imgs/2f-tube.png)</p>
+
+![image](src/imgs/2f-tube.png)
 
 ------
   
