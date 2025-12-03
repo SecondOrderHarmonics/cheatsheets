@@ -154,9 +154,14 @@
   - [Bench Power Supplies](https://www.angelfire.com/electronic/funwithtubes/bench_psu.html) <sup>[note: somewhat dated, check EEVBlog and ESP/sound-au]</sup>
 
 
-![image](src/imgs/2f-tube.png)
 
-------
+
+-------
+
+
+![image](src/imgs/2f.png)
+
+
   
      Written by: AZ (Aaron Zauner) »info@secondorderharmonics.eu« [@ 03/12/2025]
      © 2𝑓 — Second Order Harmonics (2025) » Analogue Sound for the Digital Age        
