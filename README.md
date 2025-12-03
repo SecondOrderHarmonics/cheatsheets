@@ -103,10 +103,13 @@
 ## Articles, Posts & References 
 <sub>[from fundamentals to advanced design, production, manufacture and measurement]</sub>
 
-## Open access to closed papers and books
+### Open access to closed papers and books
 <sub>[we shoudln't advertise this here, but it's the reality that access to many publications and journals outside of working at a university or being a student is not affordable, with a lot of basic textbooks costing multiple hundered USD and even old classics in EE often more than 80 EUR. Access to regular publications that makes economic sense is a completely different topic and, actually, far worse.]</sub>
 - [Sci-Hub](https://sci-hub.se/)
 - Google various "PDFDrive" sites for full engineering / topic specific books
+
+### Various
+- [Harmonics - THD+N (NI)](https://www.ni.com/docs/en-US/bundle/rfmx-specan/page/harmonics.html)
 
 ### ESP (Elliott Sound Products) - sound-au.com
 1. [Elliott Sound Products - The Audio Pages](https://sound-au.com/articles/index.htm) <sup>[note: index, from very basics to advaced topics]</sup>
