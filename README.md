@@ -155,9 +155,9 @@
 
 
 
-           Written by: AZ - [mail/smtp(s): info@secondorderharmonics.eu] @ 03/12/2025
+           Written by: AZ (Aaron Zauner) [e-mail: info@secondorderharmonics.eu] @ [03/12/2025]
 
-           © 2𝑓 $-$ Second Order Harmonics [2025] » Analogue Sound for the Digital Age
+           © 2𝑓 -- Second Order Harmonics [2025] » Analogue Sound for the Digital Age
              Licensing: MIT License (see LICENSE File)
 
 
