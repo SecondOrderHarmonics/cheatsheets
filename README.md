@@ -160,4 +160,5 @@
    © 2𝑓 - Second Order Harmonics [2025] » Analogue Sound for the Digital Age
      Licensing: MIT License (see LICENSE File)
 
-EOF```
+EOF
+```
