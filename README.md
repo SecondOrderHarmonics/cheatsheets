@@ -76,42 +76,42 @@
 ### ECAD Software and Resources
 - [KiCAD (Open Source)](https://www.kicad.org/)
 - [EasyEDA (Vendor-bound)](https://easyeda.com/)
-- [SnapEDA](https://www.snapeda.com/) [note: designs footprints and 3D objects for components in seconds]
+- [SnapEDA](https://www.snapeda.com/) <sup>[note: designs footprints and 3D objects for components in seconds]</sup>
 - [Free Reader (Ultra Librarian)](https://www.ultralibrarian.com/products/free-reader/)
 - [Samacsys Library Loader - ZIP File](https://componentsearchengine.com/LibraryLoader.php)
 
 ## Video Blogs (aka Youtube / Vimeo etc.) / Podcasts
 ### EEVBlog (Dave Jones)
-[Deserves it's own mention right smack in the middle. I'll link the channel and over time specific videos on fundamentals and specific topics of interest (lab setup, PSUs, measurement, repair etc.)]
+<sub>[Deserves it's own mention right smack in the middle. I'll link the channel and over time specific videos on fundamentals and specific topics of interest (lab setup, PSUs, measurement, repair etc.)]</sub>
 -  https://www.youtube.com/eevblog (https://www.eevblog.com)
 
-## Online Forums & discussion portals related to audio engineering and EE focused on (analog) audio
-- **[GroupDIY](https://groupdiy.com/)** [note: a lot of OSHW projects, many DIY Kit designers provide support for a given Kit in their own threads, design questions, large builds, vintage research etc.]
+## Online Forums & discussion portals on (analog) audio design/engineering
+- **[GroupDIY](https://groupdiy.com/)** <sup>[note: a lot of OSHW projects, many DIY Kit designers provide support for a given Kit in their own threads, design questions, large builds, vintage research etc.]</sup>
    * "[GroupDIY Rules: Read before posting in any of the forums!](https://groupdiy.com/threads/groupdiy-rules-read-before-posting-in-any-of-the-forums.6650/)"
    * "[Meta-Meta: Look here for overview..](https://groupdiy.com/threads/meta-meta-look-here-for-overview.16013/)"
-- **[diyaudio](https://www.diyaudio.com/community/)** [note: more focused on general audio engineering, some great DIY build write-ups (people building their own consoles etc.!)]
+- **[diyaudio](https://www.diyaudio.com/community/)** <sup>[note: more focused on general audio engineering, some great DIY build write-ups (people building their own consoles etc.!)]</sup>
 
 ## Articles, Posts & References 
-[from fundamentals to advanced design, production, manufacture and measurement]
+<sub>[from fundamentals to advanced design, production, manufacture and measurement]</sub>
 
 ## Open access to closed papers and books
-[we shoudln't advertise this here, but it's the reality that access to many publications and journals outside of working at a university or being a student is not affordable, with a lot of basic textbooks costing multiple hundered USD and even old classics in EE often more than 80 EUR. Access to regular publications that makes economic sense is a completely different topic and, actually, far worse.]
+<sub>[we shoudln't advertise this here, but it's the reality that access to many publications and journals outside of working at a university or being a student is not affordable, with a lot of basic textbooks costing multiple hundered USD and even old classics in EE often more than 80 EUR. Access to regular publications that makes economic sense is a completely different topic and, actually, far worse.]</sub>
 - [Sci-Hub](https://sci-hub.se/)
-- Google various PDFDrive sites for full engineering / topic specific books
+- Google various "PDFDrive" sites for full engineering / topic specific books
 
 ### ESP (Elliott Sound Products) - sound-au.com
-1. [Elliott Sound Products - The Audio Pages](https://sound-au.com/articles/index.htm) [note: index, from very basics to advaced topics]
-   *   [Beginners Guide](https://sound-au.com/articles/index.htm#begl) [note: recommended reading for new-comers!]
-   *   [Electrical Safety](https://sound-au.com/articles/index.htm#safl) [note: ibid.]
-   *   [Components & Use](https://sound-au.com/articles/index.htm#comp) [note: good intro/description on component, eg. resistor/cap values, TH vs SMD etc.]
+1. [Elliott Sound Products - The Audio Pages](https://sound-au.com/articles/index.htm) <sup>[note: index, from very basics to advaced topics]</sup>
+   *   [Beginners Guide](https://sound-au.com/articles/index.htm#begl) <sup>[note: recommended reading for new-comers!]</sup>
+   *   [Electrical Safety](https://sound-au.com/articles/index.htm#safl) 
+   *   [Components & Use](https://sound-au.com/articles/index.htm#comp) <sup>[note: good intro/description on component values, TH vs SMD]</sup>
    *   [Test & Measurement](https://sound-au.com/articles/index.htm#test)
-   *   [General Information](https://sound-au.com/articles/index.htm#geni) [note: myths in audio(phile) non-sense etc. explained] 
+   *   [General Information](https://sound-au.com/articles/index.htm#geni) <sup>[note: myths in audio(phile) non-sense etc. explained] </sup>
    *   [Design Guidelines](https://sound-au.com/articles/index.htm#desi)
-   *   [Power Supply Design](https://sound-au.com/articles/index.htm#psud) [note: worth reading up on; linear vs. switching (SMPS) in audio - background on: inrush currents, isolation, traffos etc.]
-   *   [Amplification](https://sound-au.com/articles/index.htm#ampl) [note: well. not much worth noting here, it's pretty much the bare minimum of what you need to know]
-   *   [Cables](https://sound-au.com/articles/index.htm#cabl) [note: interconnects, coax, impedence, shielding, balanced vs. unbalanced etc.]
-2. [ESP: **Valves / Tubes**](https://sound-au.com/valves/index.html) [note: index, valve/tube specifics]
-   *   [**Valves (Vacuum Tubes) - A Primer**](https://sound-au.com/valves/valveintro.html) [note: topic intro]
+   *   [Power Supply Design](https://sound-au.com/articles/index.htm#psud) <sup>[note: worth reading up on; linear vs. switching (SMPS) in audio - background on: inrush currents, isolation, traffos etc.]</sup>
+   *   [Amplification](https://sound-au.com/articles/index.htm#ampl) 
+   *   [Cables](https://sound-au.com/articles/index.htm#cabl) <sup>[note: interconnects, coax, impedence, shielding, balanced vs. unbalanced etc.]</sup>
+2. [ESP: **Valves / Tubes**](https://sound-au.com/valves/index.html) 
+   *   [**Valves (Vacuum Tubes) - A Primer**](https://sound-au.com/valves/valveintro.html) <sup>[note: topic intro]</sup>
    *   [Valve Amplifiers](https://sound-au.com/hfr_be.htm)
    *   Valve (Vacuum Tube) **Amplifier Design Considerations**
         - [Part 1](https://sound-au.com/valves/design.html)
@@ -121,8 +121,8 @@
   *   [Valves / Tubes: **Biasing and Gain**](https://sound-au.com/valves/bias-gain.html)
   *   [Valves / Tubes: **Harmonic and Intermodulation Distortion**](https://sound-au.com/valves/thd-imd.html)
   *   [**Valve Stage Analysis**](https://sound-au.com/valves/analysis.html)
-  *   [High Voltage DC Supply](https://sound-au.com/project151.htm) [note: design project. many projects have ready-to-order PCBs, check his site!]
-3. [ESP Application Notes](https://sound-au.com/appnotes/index.html) [note: various. from converters, motors, detection circuits and analog meters to high-power zener diodes]
+  *   [High Voltage DC Supply](https://sound-au.com/project151.htm) <sup>[note: design project. many projects have ready-to-order PCBs, check his site!]</sup>
+3. [ESP Application Notes](https://sound-au.com/appnotes/index.html) <sup>[note: various. from converters, motors, detection circuits and analog meters to high-power zener diodes]</sup>
 
 
 ### "[Fun With Tubes](https://www.angelfire.com/electronic/funwithtubes/)" (Max Robinson)
@@ -135,7 +135,7 @@
   - [Vacuum Triodes](https://www.angelfire.com/electronic/funwithtubes/Basics_04_Triodes.html)
   - [Multi-grid Tubes](https://www.angelfire.com/electronic/funwithtubes/Basics_05_Multigrid.html)
 3. Instruments / Lab Equipment
-  - [Bench Power Supplies](https://www.angelfire.com/electronic/funwithtubes/bench_psu.html) [note: somewhat dated, check EEVBlog and ESP/sound-au]
+  - [Bench Power Supplies](https://www.angelfire.com/electronic/funwithtubes/bench_psu.html) <sup>[note: somewhat dated, check EEVBlog and ESP/sound-au]</sup>
 
 
 ```EOF```
