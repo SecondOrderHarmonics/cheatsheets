@@ -18,7 +18,7 @@
 -----
 
 
-## Design Tools & Online Calculators
+## Design Tools & Online Calculators (components, parameters, layouts)
 ### Signal Chains
 - [Signal Chain Designer (Analog Devices)](https://tools.analog.com/en/signalchaindesigner/)
   
@@ -53,7 +53,7 @@
 - [Precision DAC Error Budget Calculator (Analog Devices)](https://tools.analog.com/en/dacerrorbudget/)
 - [Precision ADC Driver Tool (Analog Devices)](https://tools.analog.com/en/adcdriver/)
 
-## Circuit Design & Simulation Software / Component & Parameter Calculations 
+## Circuit Design & Simulation Software 
  - [Virtual Eval Tool (Analog Devices)](https://beta-tools.analog.com/virtualeval/)
    - [Precision ADC Driver Tool](https://tools.analog.com/en/adcdriver/)
    - [ADIsimDDS (Direct Digital Synthesis)](https://tools.analog.com/en/simdds/)
