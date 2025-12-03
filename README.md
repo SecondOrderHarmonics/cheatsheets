@@ -1,9 +1,19 @@
 # $\Delta{_t}$ $-$ _Cheat-sheets:_ $\forall _{EE} \in\(\textbf{ Analog audio circuit design \)}$
-<p align="center">
-Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calculators
-</p>
 
+<p align="center">Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calculators</p>
 
+----
+
+### Table of Contents:
+- [Design Tools & Online Calculators](#design-tools--online-calculators)
+  * [Signal Chains](#signal-chains)
+  * [Filters](#filters)
+  * [Inductors / Transformers / (PSUs)](#inductors--transformers--psus)
+- [Video Blogs / Podcasts](#video-blogs-aka-youtube--vimeo-etc--podcasts)
+  * [EEVBlog](#eevblog-dave-jones)
+- [Articles, Posts & References ](#articles-posts--references)
+  * [ESP - Elliott Sound Products - sound-au.com](#esp-elliott-sound-products---sound-aucom)
+  * [Fun with Tubes](#fun-with-tubes-max-robinson) 
 
 -----
 
@@ -67,4 +77,4 @@ Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calcu
   - [Bench Power Supplies](https://www.angelfire.com/electronic/funwithtubes/bench_psu.html) [note: somewhat dated, check EEVBlog and ESP/sound-au]
 
 
-__EOF__
+```EOF```
