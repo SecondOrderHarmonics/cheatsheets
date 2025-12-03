@@ -37,6 +37,9 @@
   1. [EE-SIM Design and Simulation Environment (Analog Devices)](https://www.analog.com/media/en/technical-documentation/user-guides/eesim-design-and-simulation-environment-user-guide.pdf)
 - [EE-Sim Solution Finder (Analog Devices)](https://tools.analog.com/en/eesim/)
 - [Noise Figure Temperature (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/noise-figure-and-noise-temperature-calculator)
+- [LTpowerCAD and LTpowerPlanner (Analog Devices](https://www.analog.com/en/lp/ltpowercad.html)
+  1. [LTpowerCAD II Quick Start (Analog Devices)](https://www.analog.com/media/en/simulation-models/software-and-simulation/LTpowerCADIIQuickStart.pdf)
+  2. [LTpowerPlanner III System-Level Design Tool Quick Start Guide](https://www.analog.com/media/en/technical-documentation/user-guides/ltpowerplanneriii_qsg.pdf)
 
 
 ### Signals, RF & Measurement
@@ -44,10 +47,7 @@
 - [In-Amp Diamond Plot Tool (Analog Devices)](https://tools.analog.com/en/diamond/)
 - [Calculating Transmitted Power Using Return Loss (Analog Devices) - ZIP File](https://www.analog.com/media/en/designtools/calculators/returnlossconversions.zip)
 - [Calculating Equivalent Parallel Impedance (Analog Devices) - XLS File](https://www.analog.com/media/en/designtools/calculators/calcdiff.xls)
-- [LTpowerCAD and LTpowerPlanner (Analog Devices](https://www.analog.com/en/lp/ltpowercad.html)
-  1. [LTpowerCAD II Quick Start (Analog Devices)](https://www.analog.com/media/en/simulation-models/software-and-simulation/LTpowerCADIIQuickStart.pdf)
-  2. [LTpowerPlanner III System-Level Design Tool Quick Start Guide](https://www.analog.com/media/en/technical-documentation/user-guides/ltpowerplanneriii_qsg.pdf)
-- [Precision DAC Error Budget Calculator (Analog Devices](https://tools.analog.com/en/dacerrorbudget/)
+- [Precision DAC Error Budget Calculator (Analog Devices)](https://tools.analog.com/en/dacerrorbudget/)
 - [Precision ADC Driver Tool (Analog Devices)](https://tools.analog.com/en/adcdriver/)
  
 ### Measurement & Simulation Software
@@ -58,12 +58,15 @@
      * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
   3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice)
      * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
-       
+ - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
+ - [Pad Attenuator (Pi, Tee, & Bridged-Tee) Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pad-attenuator-calculator)
+
 ### Circuit Design Software and Component Calculations
  - [Virtual Eval Tool (Analog Devices)](https://beta-tools.analog.com/virtualeval/)
    - [Precision ADC Driver Tool](https://tools.analog.com/en/adcdriver/)
    - [ADIsimDDS (Direct Digital Synthesis)](https://tools.analog.com/en/simdds/)
    - [Photodiode Circuit Design Wizard](https://tools.analog.com/en/photodiode/)
+ - [PCB Trace Power Handling Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pcb-trace-power-handling-calculator)
 
 ### ECAD Software and Resources
 - [KiCAD (Open Source)](https://www.kicad.org/)
