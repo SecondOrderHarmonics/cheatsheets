@@ -95,7 +95,7 @@
 [from fundamentals to advanced design, production, manufacture and measurement]
 
 ## Open access to closed papers and books
-[we shoudln't advertise this here, but it's the reality that access to many publications and journals outside of working at a university or being a student is not affordable, with a lot of basic textbooks costing multiple hundered USD and even old classics in EE often more than 80 EUR]
+[we shoudln't advertise this here, but it's the reality that access to many publications and journals outside of working at a university or being a student is not affordable, with a lot of basic textbooks costing multiple hundered USD and even old classics in EE often more than 80 EUR. Access to regular publications that makes economic sense is a completely different topic and, actually, far worse.]
 - [Sci-Hub](https://sci-hub.se/)
 - Google various PDFDrive sites for full engineering / topic specific books
 
