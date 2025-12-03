@@ -74,14 +74,16 @@
  - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
  - [Pad Attenuator (Pi, Tee, & Bridged-Tee) Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pad-attenuator-calculator)
 
-### HW/Component Design: Evaluation, Testing, QA, Tools & Calculators (others)
+### PCB+Component Design: Evaluation, Testing, QA, Tools & various calcs. 
+#### ADC/DAC + Analog-related small circuit design wizards
  - [Virtual Eval Tool (Analog Devices)](https://beta-tools.analog.com/virtualeval/)
    - [Precision ADC Driver Tool](https://tools.analog.com/en/adcdriver/)
    - [ADIsimDDS (Direct Digital Synthesis)](https://tools.analog.com/en/simdds/)
    - [Photodiode Circuit Design Wizard](https://tools.analog.com/en/photodiode/)
 - [Cascade Analysis Calculator (Active / Passive) (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/cascade-calculator)
+#### PCBA/SMT Layout, PnP, Panelizing, Manufacture
 - [PCB Trace Power Handling Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pcb-trace-power-handling-calculator)
-
+- [EEVblog #552 – DFM Automated PCB Panel Testing](https://www.eevblog.com/2013/11/29/eevblog-552-dfm-automated-pcb-panel-testing/)
 
 ## Video Blogs (aka Youtube / Vimeo etc.) / Podcasts
 ### EEVBlog (Dave Jones)
