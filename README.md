@@ -108,7 +108,7 @@
 - [Sci-Hub](https://sci-hub.se/)
 - Google various "PDFDrive" sites for full engineering / topic specific books
 
-### Various
+### Various Articles, Posts, Talks
 - [Harmonics - THD+N (NI)](https://www.ni.com/docs/en-US/bundle/rfmx-specan/page/harmonics.html)
 - [Simple RF Circuit Design (Michael Ossman)](https://www.youtube.com/watch?v=TnRn3Kn_aXg)
     * [BlackHat Asia 2016: Rapid Radio Reversing (Michael Ossmann)](https://www.youtube.com/watch?v=8kIxlMIGctc) ([Paper](https://greatscottgadgets.com/tr/gsg-tr-2016-1.pdf))
@@ -159,6 +159,6 @@
   
      Written by: AZ (Aaron Zauner) [info@secondorderharmonics.eu] @ 03/12/2025
      © 2𝑓 — Second Order Harmonics [2025] » Analogue Sound for the Digital Age        
-            Licensing: MIT License (see LICENSE File)
+            Licensing: MIT License (see LICENSE-File)
  
 EOF
