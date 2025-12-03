@@ -53,13 +53,7 @@
 - [Precision DAC Error Budget Calculator (Analog Devices)](https://tools.analog.com/en/dacerrorbudget/)
 - [Precision ADC Driver Tool (Analog Devices)](https://tools.analog.com/en/adcdriver/)
 
-## Circuit Design & Simulation Software 
- - [Virtual Eval Tool (Analog Devices)](https://beta-tools.analog.com/virtualeval/)
-   - [Precision ADC Driver Tool](https://tools.analog.com/en/adcdriver/)
-   - [ADIsimDDS (Direct Digital Synthesis)](https://tools.analog.com/en/simdds/)
-   - [Photodiode Circuit Design Wizard](https://tools.analog.com/en/photodiode/)
-- [Cascade Analysis Calculator (Active / Passive) (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/cascade-calculator)
-- [PCB Trace Power Handling Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pcb-trace-power-handling-calculator)
+## Circuit Design, Simulation Software & PCB/SMT Manufacture Resources
 
 ### ECAD Software and Resources
 - [KiCAD (Open Source)](https://www.kicad.org/)
@@ -68,7 +62,7 @@
 - [Free Reader (Ultra Librarian)](https://www.ultralibrarian.com/products/free-reader/)
 - [Samacsys Library Loader - ZIP File](https://componentsearchengine.com/LibraryLoader.php)
 
-### Measurement & Simulation Software
+### Simulation Software & Measurement
 - [SPICE](https://en.wikipedia.org/wiki/SPICE)
   1. [Ngspice](https://ngspice.sourceforge.io/)
      * [Ngspice User’s Manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf)
@@ -79,6 +73,15 @@
      * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
  - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
  - [Pad Attenuator (Pi, Tee, & Bridged-Tee) Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pad-attenuator-calculator)
+
+### HW/Component Design/Eval/Test-Tools and Calculators
+ - [Virtual Eval Tool (Analog Devices)](https://beta-tools.analog.com/virtualeval/)
+   - [Precision ADC Driver Tool](https://tools.analog.com/en/adcdriver/)
+   - [ADIsimDDS (Direct Digital Synthesis)](https://tools.analog.com/en/simdds/)
+   - [Photodiode Circuit Design Wizard](https://tools.analog.com/en/photodiode/)
+- [Cascade Analysis Calculator (Active / Passive) (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/cascade-calculator)
+- [PCB Trace Power Handling Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pcb-trace-power-handling-calculator)
+
 
 ## Video Blogs (aka Youtube / Vimeo etc.) / Podcasts
 ### EEVBlog (Dave Jones)
