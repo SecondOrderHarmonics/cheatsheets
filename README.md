@@ -20,7 +20,7 @@ Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calcu
 - [Fair-Rite Calculator Dashboard](https://fair-rite.com/calculator-dashboard/) [note: various; impedence, toroid, power-handling, bobbin, rod-permeability]
 
 
-## Video Blogs (aka Youtube) / Podcasts
+## Video Blogs (aka Youtube / Vimeo etc.) / Podcasts
 ### EEVBlog (Dave Jones)
 [Deserves it's own mention right smack in the middle. I'll link the channel and over time specific videos on fundamentals and specific topics of interest (lab setup, PSUs, measurement, repair etc.)]
 -  https://www.youtube.com/eevblog (https://www.eevblog.com)
