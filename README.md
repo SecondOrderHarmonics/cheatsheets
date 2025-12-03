@@ -52,20 +52,8 @@
 - [Calculating Equivalent Parallel Impedance (Analog Devices) - XLS File](https://www.analog.com/media/en/designtools/calculators/calcdiff.xls)
 - [Precision DAC Error Budget Calculator (Analog Devices)](https://tools.analog.com/en/dacerrorbudget/)
 - [Precision ADC Driver Tool (Analog Devices)](https://tools.analog.com/en/adcdriver/)
- 
-### Measurement & Simulation Software
-- [SPICE](https://en.wikipedia.org/wiki/SPICE)
-  1. [Ngspice](https://ngspice.sourceforge.io/)
-     * [Ngspice User’s Manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf)
-  2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
-     * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
-  3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice)
-  4. [MacSpice 3](https://www.macspice.com/)
-     * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
- - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
- - [Pad Attenuator (Pi, Tee, & Bridged-Tee) Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pad-attenuator-calculator)
 
-### Circuit Design Software and Component Calculations
+## Circuit Design & Simulation Software / Component & Parameter Calculations 
  - [Virtual Eval Tool (Analog Devices)](https://beta-tools.analog.com/virtualeval/)
    - [Precision ADC Driver Tool](https://tools.analog.com/en/adcdriver/)
    - [ADIsimDDS (Direct Digital Synthesis)](https://tools.analog.com/en/simdds/)
@@ -79,6 +67,18 @@
 - [SnapEDA](https://www.snapeda.com/) <sup>[note: designs footprints and 3D objects for components in seconds]</sup>
 - [Free Reader (Ultra Librarian)](https://www.ultralibrarian.com/products/free-reader/)
 - [Samacsys Library Loader - ZIP File](https://componentsearchengine.com/LibraryLoader.php)
+
+### Measurement & Simulation Software
+- [SPICE](https://en.wikipedia.org/wiki/SPICE)
+  1. [Ngspice](https://ngspice.sourceforge.io/)
+     * [Ngspice User’s Manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf)
+  2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
+     * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
+  3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice)
+  4. [MacSpice 3](https://www.macspice.com/)
+     * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
+ - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
+ - [Pad Attenuator (Pi, Tee, & Bridged-Tee) Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pad-attenuator-calculator)
 
 ## Video Blogs (aka Youtube / Vimeo etc.) / Podcasts
 ### EEVBlog (Dave Jones)
