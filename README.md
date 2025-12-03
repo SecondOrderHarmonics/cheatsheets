@@ -32,7 +32,6 @@
 ### Inductors / Transformers / (PSUs)
 - [RF Impedance Matching Calculator (Analog Devices)](https://www.analog.com/en/resources/interactive-design-tools/rf-impedance-matching-calculator.html)
 - [Complex Impedance Calculator (Fair-rite)](https://fair-rite.com/complex-impedance-calculator/)
-- [RF Impedance Matching (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/rf-impedance-matching-calculator)
 - [Calculator Dashboard (Fair-Rite)](https://fair-rite.com/calculator-dashboard/) [note: various; impedence, toroid, power-handling, bobbin, rod-permeability]
 
 ### Power & Thermal
@@ -47,6 +46,7 @@
 
 ### Signals, RF & Measurement
 - [ADI Precison Studio (Analog Devices)](https://tools.analog.com/en/precisionstudio/)
+- [RF Impedance Matching (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/rf-impedance-matching-calculator)
 - [In-Amp Diamond Plot Tool (Analog Devices)](https://tools.analog.com/en/diamond/)
 - [Calculating Transmitted Power Using Return Loss (Analog Devices) - ZIP File](https://www.analog.com/media/en/designtools/calculators/returnlossconversions.zip)
 - [Calculating Equivalent Parallel Impedance (Analog Devices) - XLS File](https://www.analog.com/media/en/designtools/calculators/calcdiff.xls)
