@@ -157,8 +157,9 @@
 ------
 
   
-     Written by: AZ (Aaron Zauner) [info@secondorderharmonics.eu] @ 03/12/2025
-     © 2𝑓 — Second Order Harmonics [2025] » Analogue Sound for the Digital Age        
-            Licensing: MIT License (see LICENSE-File)
+     Written by: AZ (Aaron Zauner) »infoøsecondorderharmonics.eu« @ [03/12/2025]
+     © 2𝑓 — Second Order Harmonics  (2025) » Analogue Sound for the Digital Age        
+            Licensing: MIT License [see 'LICENSE'-File]. Only relating to this 
+            git-repository, not any links or off-site information shared-within.
  
 EOF
