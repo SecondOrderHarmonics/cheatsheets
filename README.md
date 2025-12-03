@@ -24,11 +24,49 @@
   
 ### Filters
 - [Filter Lab (Microchip)](https://filterlab.microchip.com/filter)
+- [Analog Filter Wizard (Analog Devices)[https://tools.analog.com/en/filterwizard/]
 - [Microstrip Filter Design Tool (Markimicrowave)](https://markimicrowave.com/technical-resources/tools/microstrip-filter-design-tool)
   
 ### Inductors / Transformers / (PSUs)
-- [Fair-Rite Calculator Dashboard](https://fair-rite.com/calculator-dashboard/) [note: various; impedence, toroid, power-handling, bobbin, rod-permeability]
+- [RF Impedance Matching Calculator (Analog Devices)](https://www.analog.com/en/resources/interactive-design-tools/rf-impedance-matching-calculator.html)
+- [Calculator Dashboard (Fair-Rite)](https://fair-rite.com/calculator-dashboard/) [note: various; impedence, toroid, power-handling, bobbin, rod-permeability]
 
+### Power & Thermal
+- [EE-Sim® Power Tools (Analog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ee-sim.html)
+  1. [EE-SIM Design and Simulation Environment (Analog Devices)](https://www.analog.com/media/en/technical-documentation/user-guides/eesim-design-and-simulation-environment-user-guide.pdf)
+- [EE-Sim Solution Finder (Analog Devices)](https://tools.analog.com/en/eesim/)
+-  
+
+### Signals, RF & Measurement
+- [ADI Precison Studio (Analog Devices)](https://tools.analog.com/en/precisionstudio/)
+- [In-Amp Diamond Plot Tool (Analog Devices)](https://tools.analog.com/en/diamond/)
+- [Calculating Transmitted Power Using Return Loss (Analog Devices) - ZIP File](https://www.analog.com/media/en/designtools/calculators/returnlossconversions.zip)
+- [Calculating Equivalent Parallel Impedance (Analog Devices) - XLS File](https://www.analog.com/media/en/designtools/calculators/calcdiff.xls)
+- [LTpowerCAD and LTpowerPlanner (Analog Devices](https://www.analog.com/en/lp/ltpowercad.html)
+  1. [LTpowerCAD II Quick Start (Analog Devices)](https://www.analog.com/media/en/simulation-models/software-and-simulation/LTpowerCADIIQuickStart.pdf)
+  2. [LTpowerPlanner III System-Level Design Tool Quick Start Guide](https://www.analog.com/media/en/technical-documentation/user-guides/ltpowerplanneriii_qsg.pdf)
+- [Precision DAC Error Budget Calculator (Analog Devices](https://tools.analog.com/en/dacerrorbudget/)
+- [Precision ADC Driver Tool (Analog Devices)](https://tools.analog.com/en/adcdriver/)
+ 
+### Measurement & Simulation Software
+- [SPICE](https://en.wikipedia.org/wiki/SPICE)
+  1. [Ngspice](https://ngspice.sourceforge.io/)
+     * [Ngspice User’s Manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf)
+  1. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
+     * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
+       
+### Circuit Design Software and Component Calculations
+ - [Virtual Eval Tool (Analog Devices)](https://beta-tools.analog.com/virtualeval/)
+   - [Precision ADC Driver Tool](https://tools.analog.com/en/adcdriver/)
+   - [ADIsimDDS (Direct Digital Synthesis)](https://tools.analog.com/en/simdds/)
+   - [Photodiode Circuit Design Wizard](https://tools.analog.com/en/photodiode/)
+
+### ECAD Software and Resources
+- [KiCAD (Open Source)](https://www.kicad.org/)
+- [EasyEDA (Vendor-bound)](https://easyeda.com/)
+- [SnapEDA](https://www.snapeda.com/) [note: designs footprints and 3D objects for components in seconds]
+- [Free Reader (Ultra Librarian)](https://www.ultralibrarian.com/products/free-reader/)
+- [Samacsys Library Loader - ZIP File](https://componentsearchengine.com/LibraryLoader.php)
 
 ## Video Blogs (aka Youtube / Vimeo etc.) / Podcasts
 ### EEVBlog (Dave Jones)
