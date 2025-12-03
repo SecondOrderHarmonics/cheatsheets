@@ -154,4 +154,10 @@
   - [Bench Power Supplies](https://www.angelfire.com/electronic/funwithtubes/bench_psu.html) <sup>[note: somewhat dated, check EEVBlog and ESP/sound-au]</sup>
 
 
-```EOF```
+```
+   Written by: AZ - [mail/smtp(s): info@secondorderharmonics.eu] @ 03/12/2025
+
+   © 2𝑓 - Second Order Harmonics [2025] » Analogue Sound for the Digital Age
+     Licensing: MIT License (see LICENSE File)
+
+EOF```
