@@ -66,7 +66,8 @@
    - [Precision ADC Driver Tool](https://tools.analog.com/en/adcdriver/)
    - [ADIsimDDS (Direct Digital Synthesis)](https://tools.analog.com/en/simdds/)
    - [Photodiode Circuit Design Wizard](https://tools.analog.com/en/photodiode/)
- - [PCB Trace Power Handling Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pcb-trace-power-handling-calculator)
+- [Cascade Analysis Calculator (Active / Passive) (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/cascade-calculator)
+- [PCB Trace Power Handling Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pcb-trace-power-handling-calculator)
 
 ### ECAD Software and Resources
 - [KiCAD (Open Source)](https://www.kicad.org/)
