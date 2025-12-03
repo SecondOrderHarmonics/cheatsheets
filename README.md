@@ -83,7 +83,11 @@
 - [Cascade Analysis Calculator (Active / Passive) (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/cascade-calculator)
 #### PCBA/SMT Layout, PnP, Panelizing, Manufacture
 - [PCB Trace Power Handling Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pcb-trace-power-handling-calculator)
+- [PCB Panelization (JLCPCB)](https://jlcpcb.com/help/article/pcb-panelization)
+  * [PCB Panelization Explained: Tips and Techniques (JLCPCB)](https://jlcpcb.com/blog/pcb-panelization-tips-and-techniques)
 - [EEVblog #552 – DFM Automated PCB Panel Testing](https://www.eevblog.com/2013/11/29/eevblog-552-dfm-automated-pcb-panel-testing/)
+- [EEVblog #127 – PCB Design For Manufacture Tutorial] (https://www.eevblog.com/2010/11/15/eevblog-127-pcb-design-for-manufacture-tutorial/)
+- [Unlocking PCB Thermal Management: Enhance with Thermal Relief Pads (LCSC)](https://www.lcsc.com/blog/unlocking-pcb-thermal-management/)
 
 ## Video Blogs (aka Youtube / Vimeo etc.) / Podcasts
 ### EEVBlog (Dave Jones)
