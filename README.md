@@ -32,7 +32,7 @@
 ### Inductors / Transformers / (PSUs)
 - [RF Impedance Matching Calculator (Analog Devices)](https://www.analog.com/en/resources/interactive-design-tools/rf-impedance-matching-calculator.html)
 - [Complex Impedance Calculator (Fair-rite)](https://fair-rite.com/complex-impedance-calculator/)
-- [Calculator Dashboard (Fair-Rite)](https://fair-rite.com/calculator-dashboard/) [note: various; impedence, toroid, power-handling, bobbin, rod-permeability]
+- [Calculator Dashboard (Fair-Rite)](https://fair-rite.com/calculator-dashboard/) <sup>[note: various; impedence, toroid, power-handling, bobbin, rod-permeability]</sup>
 
 ### Power & Thermal
 - [EE-Sim® Power Tools (Analog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ee-sim.html)
