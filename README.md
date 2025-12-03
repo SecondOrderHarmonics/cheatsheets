@@ -113,6 +113,7 @@
 - [Simple RF Circuit Design (Michael Ossman)](https://www.youtube.com/watch?v=TnRn3Kn_aXg)
     * [BlackHat Asia 2016: Rapid Radio Reversing (Michael Ossmann)](https://www.youtube.com/watch?v=8kIxlMIGctc) ([Paper](https://greatscottgadgets.com/tr/gsg-tr-2016-1.pdf))
 - [An ultra low-distortion oscillator with THD below -140 dB](http://www.janascard.cz/PDF/An%20ultra%20low%20distortion%20oscillator%20with%20THD%20below%20-140%20dB.pdf) ([PCB/Finished Product](http://www.janascard.cz/aj_Vyrobky.html))
+   * Going back to (AFAIK): [Low-distortion Audio-range Oscillator - 2012/01 (diyaudio)](https://www.diyaudio.com/community/threads/low-distortion-audio-range-oscillator.205304/)
 
 ### ESP (Elliott Sound Products) - sound-au.com
 1. [Elliott Sound Products - The Audio Pages](https://sound-au.com/articles/index.htm) <sup>[note: index, from very basics to advaced topics]</sup>
