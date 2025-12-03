@@ -74,7 +74,7 @@
  - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
  - [Pad Attenuator (Pi, Tee, & Bridged-Tee) Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pad-attenuator-calculator)
 
-### HW/Component Design/Eval/Test-Tools and Calculators
+### HW/Component Design: Evaluation, Testing, QA, Tools & Calculators (others)
  - [Virtual Eval Tool (Analog Devices)](https://beta-tools.analog.com/virtualeval/)
    - [Precision ADC Driver Tool](https://tools.analog.com/en/adcdriver/)
    - [ADIsimDDS (Direct Digital Synthesis)](https://tools.analog.com/en/simdds/)
