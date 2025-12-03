@@ -11,16 +11,20 @@ Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calcu
 ## Design Tools & Online Calculators
 ### Signal Chains
 - [Signal Chain Designer (Analog Devices)](https://tools.analog.com/en/signalchaindesigner/)
+  
 ### Filters
 - [Filter Lab (Microchip)](https://filterlab.microchip.com/filter)
 - [Microstrip Filter Design Tool (Markimicrowave)](https://markimicrowave.com/technical-resources/tools/microstrip-filter-design-tool)
+  
 ### Inductors / Transformers / (PSUs)
 - [Fair-Rite Calculator Dashboard](https://fair-rite.com/calculator-dashboard/) [note: various; impedence, toroid, power-handling, bobbin, rod-permeability]
+
 
 ## Video Blogs (aka Youtube) / Podcasts
 ### EEVBlog (Dave Jones)
 [Deserves it's own mention right smack in the middle. I'll link the channel and over time specific videos on fundamentals and specific topics of interest (lab setup, PSUs, measurement, repair etc.)]
 -  https://www.youtube.com/eevblog (https://www.eevblog.com)
+
 
 ## Articles, Posts & References 
 [from fundamentals to advanced design, production, manufacture and measurement]
@@ -48,6 +52,7 @@ Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calcu
   *   [**Valve Stage Analysis**](https://sound-au.com/valves/analysis.html)
   *   [High Voltage DC Supply](https://sound-au.com/project151.htm) [note: design project. many projects have ready-to-order PCBs, check his site!]
 3. [ESP Application Notes](https://sound-au.com/appnotes/index.html) [note: various. from converters, motors, detection circuits and analog meters to high-power zener diodes]
+
 
 ### "[Fun With Tubes](https://www.angelfire.com/electronic/funwithtubes/)" (Max Robinson)
 1. Fundamentals
