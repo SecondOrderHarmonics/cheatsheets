@@ -60,6 +60,7 @@
   2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
      * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
   3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice)
+  4. [MacSpice 3](https://www.macspice.com/)
      * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
  - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
  - [Pad Attenuator (Pi, Tee, & Bridged-Tee) Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pad-attenuator-calculator)
@@ -92,6 +93,12 @@
 
 ## Articles, Posts & References 
 [from fundamentals to advanced design, production, manufacture and measurement]
+
+## Open access to closed papers and books
+[we shoudln't advertise this here, but it's the reality that access to many publications and journals outside of working at a university or being a student is not affordable, with a lot of basic textbooks costing multiple hundered USD and even old classics in EE often more than 80 EUR]
+- [Sci-Hub](https://sci-hub.se/)
+- Google various PDFDrive sites for full engineering / topic specific books
+
 ### ESP (Elliott Sound Products) - sound-au.com
 1. [Elliott Sound Products - The Audio Pages](https://sound-au.com/articles/index.htm) [note: index, from very basics to advaced topics]
    *   [Beginners Guide](https://sound-au.com/articles/index.htm#begl) [note: recommended reading for new-comers!]
