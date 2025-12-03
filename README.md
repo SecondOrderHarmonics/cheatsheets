@@ -35,7 +35,6 @@
 - [EE-Sim® Power Tools (Analog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ee-sim.html)
   1. [EE-SIM Design and Simulation Environment (Analog Devices)](https://www.analog.com/media/en/technical-documentation/user-guides/eesim-design-and-simulation-environment-user-guide.pdf)
 - [EE-Sim Solution Finder (Analog Devices)](https://tools.analog.com/en/eesim/)
--  
 
 ### Signals, RF & Measurement
 - [ADI Precison Studio (Analog Devices)](https://tools.analog.com/en/precisionstudio/)
@@ -75,6 +74,8 @@
 
 ## Online Forums & discussion portals related to audio engineering and EE focused on (analog) audio
 - [GroupDIY](https://groupdiy.com/) [note: a lot of OSHW projects, many DIY Kit designers provide support for a given Kit in their own threads, design questions, large builds, vintage research etc.]
+   * "[GroupDIY Rules: Read before posting in any of the forums!](https://groupdiy.com/threads/groupdiy-rules-read-before-posting-in-any-of-the-forums.6650/)"
+   * "[Meta-Meta: Look here for overview..](https://groupdiy.com/threads/meta-meta-look-here-for-overview.16013/)"
 - [diyaudio](https://www.diyaudio.com/community/) [note: more focused on general audio engineering, some great DIY build write-ups (people building their own consoles etc.!)]
 
 ## Articles, Posts & References 
