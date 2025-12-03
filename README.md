@@ -54,6 +54,7 @@
   2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
      * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
   3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice)
+     * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
        
 ### Circuit Design Software and Component Calculations
  - [Virtual Eval Tool (Analog Devices)](https://beta-tools.analog.com/virtualeval/)
