@@ -73,6 +73,9 @@
 [Deserves it's own mention right smack in the middle. I'll link the channel and over time specific videos on fundamentals and specific topics of interest (lab setup, PSUs, measurement, repair etc.)]
 -  https://www.youtube.com/eevblog (https://www.eevblog.com)
 
+## Online Forums & discussion portals related to audio engineering and EE focused on (analog) audio
+- [GroupDIY](https://groupdiy.com/) [note: a lot of OSHW projects, many DIY Kit designers provide support for a given Kit in their own threads, design questions, large builds, vintage research etc.]
+- [diyaudio](https://www.diyaudio.com/community/) [note: more focused on general audio engineering, some great DIY build write-ups (people building their own consoles etc.!)]
 
 ## Articles, Posts & References 
 [from fundamentals to advanced design, production, manufacture and measurement]
