@@ -111,7 +111,7 @@
 ### Various
 - [Harmonics - THD+N (NI)](https://www.ni.com/docs/en-US/bundle/rfmx-specan/page/harmonics.html)
 - [Simple RF Circuit Design (Michael Ossman)](https://www.youtube.com/watch?v=TnRn3Kn_aXg)
-    * [BlackHat Asia 2016: Rapid Radio Reversing (Michael Ossmann)](https://www.youtube.com/watch?v=8kIxlMIGctc)
+    * [BlackHat Asia 2016: Rapid Radio Reversing (Michael Ossmann)](https://www.youtube.com/watch?v=8kIxlMIGctc) ([Paper](https://greatscottgadgets.com/tr/gsg-tr-2016-1.pdf))
 
 ### ESP (Elliott Sound Products) - sound-au.com
 1. [Elliott Sound Products - The Audio Pages](https://sound-au.com/articles/index.htm) <sup>[note: index, from very basics to advaced topics]</sup>
