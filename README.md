@@ -1,4 +1,4 @@
-# $\Delta{_t}$ $-$ _Cheatsheets:_ $\forall _{EE} \in\(\textbf{ Analog audio circuit design \)}$
+# $\Delta{_t}$ $-$ _Cheat-sheets:_ $\forall _{EE} \in\(\textbf{ Analog audio circuit design \)}$
 <p align="center">
 Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calculators
 </p>
