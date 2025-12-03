@@ -158,7 +158,7 @@
 -------
 
 
-<p align="center"><img src="src/imgs/2f.png" alt="Second Order Harmonics - Analogue Sound for the Digital Age" style="width:50%; height:auto;"></p>
+<p align="center"><img src="src/imgs/2f.png" alt="Second Order Harmonics - Analogue Sound for the Digital Age" style="width: 400px; height:auto;"></p>
 
   
      Written by: AZ (Aaron Zauner) »info@secondorderharmonics.eu« [@ 03/12/2025]
