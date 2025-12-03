@@ -51,8 +51,9 @@
 - [SPICE](https://en.wikipedia.org/wiki/SPICE)
   1. [Ngspice](https://ngspice.sourceforge.io/)
      * [Ngspice User’s Manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf)
-  1. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
+  2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
      * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
+  3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice)
        
 ### Circuit Design Software and Component Calculations
  - [Virtual Eval Tool (Analog Devices)](https://beta-tools.analog.com/virtualeval/)
