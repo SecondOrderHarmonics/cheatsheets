@@ -17,7 +17,13 @@ Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calcu
 ### Inductors / Transformers / (PSUs)
 - [Fair-Rite Calculator Dashboard](https://fair-rite.com/calculator-dashboard/) [note: various; impedence, toroid, power-handling, bobbin, rod-permeability]
 
-## Articles / References
+## Video Blogs (aka Youtube) / Podcasts
+### EEVBlog (Dave Jones)
+[Deserves it's own mention right smack in the middle. I'll link the channel and over time specific videos on fundamentals and specific topics of interest (lab setup, PSUs, measurement, repair etc.)]
+-  https://www.youtube.com/eevblog (https://www.eevblog.com)
+
+## Articles, Posts & References 
+[from fundamentals to advanced design, production, manufacture and measurement]
 ### ESP (Elliott Sound Products) - sound-au.com
 1. [Elliott Sound Products - The Audio Pages](https://sound-au.com/articles/index.htm) [note: index, from very basics to advaced topics]
    *   [Beginners Guide](https://sound-au.com/articles/index.htm#begl) [note: recommended reading for new-comers that work on-/fork-/or build our designs!]
@@ -30,7 +36,7 @@ Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calcu
    *   [Amplification](https://sound-au.com/articles/index.htm#ampl) [note: well. not much worth noting here, it's pretty much the bare minimum of what you need to know]
    *   [Cables](https://sound-au.com/articles/index.htm#cabl) [note: interconnects, coax, impedence, shielding, balanced vs. unbalanced etc.]
 2. [ESP: **Valves / Tubes**](https://sound-au.com/valves/index.html) [note: index, valve/tube specifics]
-   *   [***Valves (Vacuum Tubes) - A Primer**](https://sound-au.com/valves/valveintro.html) [note: topic intro]
+   *   [**Valves (Vacuum Tubes) - A Primer**](https://sound-au.com/valves/valveintro.html) [note: topic intro]
    *   [Valve Amplifiers](https://sound-au.com/hfr_be.htm)
    *   Valve (Vacuum Tube) **Amplifier Design Considerations**
         - [Part 1](https://sound-au.com/valves/design.html)
@@ -43,7 +49,7 @@ Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calcu
   *   [High Voltage DC Supply](https://sound-au.com/project151.htm) [note: design project. many projects have ready-to-order PCBs, check his site!]
 3. [ESP Application Notes](https://sound-au.com/appnotes/index.html) [note: various. from converters, motors, detection circuits and analog meters to high-power zener diodes]
 
-### "Fun With Tubes" (Max Robinson)
+### "[Fun With Tubes](https://www.angelfire.com/electronic/funwithtubes/)" (Max Robinson)
 1. Fundamentals
   - [DC Circuits Basics / Cheat-sheet](https://www.angelfire.com/electronic/funwithtubes/Basics_01_DC_Circs.html)
   - [AC Circuits Basics / Cheat-sheet](https://www.angelfire.com/electronic/funwithtubes/Basics_02_AC_Circs.html)
