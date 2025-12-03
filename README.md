@@ -1,9 +1,14 @@
-# $\Delta{_t}$ __Cheatsheets:__ $\forall _{EE} \in\(\textbf{ Analog audio circuit design \)}$
-#### Practical Guides, Articles, Posts as well as Online-, Tools and Calculators
+# $\Delta{_t}$ $-$ _Cheatsheets:_ $\forall _{EE} \in\(\textbf{ Analog audio circuit design \)}$
+<p align="center">
+Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calculators
+</p>
+
+
 
 -----
 
-## Online Calculators & Design Tools
+
+## Design Tools & Online Calculators
 ### Signal Chains
 - [Signal Chain Designer (Analog Devices)](https://tools.analog.com/en/signalchaindesigner/)
 ### Filters
