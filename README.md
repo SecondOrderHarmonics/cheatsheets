@@ -30,8 +30,8 @@ Practical Design guides, Articles & Blog Posts as well as Online-Tools and Calcu
 [from fundamentals to advanced design, production, manufacture and measurement]
 ### ESP (Elliott Sound Products) - sound-au.com
 1. [Elliott Sound Products - The Audio Pages](https://sound-au.com/articles/index.htm) [note: index, from very basics to advaced topics]
-   *   [Beginners Guide](https://sound-au.com/articles/index.htm#begl) [note: recommended reading for new-comers that work on-/fork-/or build our designs!]
-   *   [Electrical Safety](https://sound-au.com/articles/index.htm#safl)
+   *   [Beginners Guide](https://sound-au.com/articles/index.htm#begl) [note: recommended reading for new-comers!]
+   *   [Electrical Safety](https://sound-au.com/articles/index.htm#safl) [note: ibid.]
    *   [Components & Use](https://sound-au.com/articles/index.htm#comp) [note: good intro/description on component, eg. resistor/cap values, TH vs SMD etc.]
    *   [Test & Measurement](https://sound-au.com/articles/index.htm#test)
    *   [General Information](https://sound-au.com/articles/index.htm#geni) [note: myths in audio(phile) non-sense etc. explained] 
