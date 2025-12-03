@@ -154,13 +154,10 @@
   - [Bench Power Supplies](https://www.angelfire.com/electronic/funwithtubes/bench_psu.html) <sup>[note: somewhat dated, check EEVBlog and ESP/sound-au]</sup>
 
 
-
-
 -------
 
 
-![image](src/imgs/2f.png)
-
+<img src="src/imgs/2f.png" alt="Second Order Harmonics - Analogue Sound for the Digital Age" style="width:50%; height:auto;">
 
   
      Written by: AZ (Aaron Zauner) »info@secondorderharmonics.eu« [@ 03/12/2025]
