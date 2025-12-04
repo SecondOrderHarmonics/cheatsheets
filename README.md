@@ -56,14 +56,14 @@ _needs to be updated once a better document structure has evolved_
 
 ### Simulation Software & Measurement
 - [SPICE](https://en.wikipedia.org/wiki/SPICE) [note: "Simulation Program with Integrated Circuit Emphasis"]
-  1. [Ngspice](https://ngspice.sourceforge.io/)
+  1. [Ngspice](https://ngspice.sourceforge.io/) [note: most commonly used open-source version]
      * [Ngspice User’s Manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf)
-  2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
+  2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) [note: most commonly used version in the industry]
      * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
-  3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice)
-  4. [LiveSPICE](https://www.livespice.org/) [note: "a SPICE-like circuit simulation tool for live audio signals"]
-  5. [Qucs](https://qucs.sourceforge.net/) [note: seems to be no longer maintained (2017)]
-      * [QucsStudio](https://qucsstudio.de/) [note: fork of Qucs, not backwards compatible]
+  3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) [note: new+promising, very similar to LTSpice, modernized, new featrues (incl. embedded C/C++ / Verilog), tools for simple component/param. import] 
+  4. [LiveSPICE](https://www.livespice.org/) [note: interesting project, early days, says "a SPICE-like circuit simulation tool for live audio signals"]
+  5. ~~[Qucs](https://qucs.sourceforge.net/) [note: seems to be no longer maintained (2017)]~~
+  6. [QucsStudio](https://qucsstudio.de/) [note: fork of Qucs, not compatible]
   7. [MacSpice 3](https://www.macspice.com/)
      * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
  - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
