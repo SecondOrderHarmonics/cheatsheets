@@ -63,7 +63,7 @@ _needs to be updated once a better document structure has evolved_
   2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) [note: most commonly used version in the industry]
      * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
   3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) [note: new+promising, very similar to LTSpice, modernized, new featrues (incl. embedded C/C++ / Verilog), tools for simple component/param. import] 
-  4. [LiveSPICE](https://www.livespice.org/) [note: interesting project, early days, says "a SPICE-like circuit simulation tool for live audio signals"]
+  4. [LiveSPICE](https://www.livespice.org/) [note: interesting, but early days, aims to provide DAW-integration via VST-plugin "a SPICE-like circuit simulation tool for live audio signals", currently only ASIO-driver based (Win)]
   5. ~~[Qucs](https://qucs.sourceforge.net/) [note: seems to be no longer maintained (2017)]~~
   6. [QucsStudio](https://qucsstudio.de/) [note: fork of Qucs, not compatible]
   7. [MacSpice 3](https://www.macspice.com/) [note: seems maintained, but I do not know of any users]
