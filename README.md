@@ -156,7 +156,7 @@ _needs to be updated once a better document structure has evolved_
 <p align="center"><img src="src/imgs/2f.png" alt="Second Order Harmonics - Analogue Sound for the Digital Age" style="width: 400px; height:auto;"></p>
 
   
-     Written by: AZ (Aaron Zauner) »info@secondorderharmonics.eu« [@ 03/12/2025]
-     © 2𝑓 — Second Order Harmonics (2025) » Analogue Sound for the Digital Age        
-            Licensing: MIT License [see 'LICENSE'-File]. Only relating to this 
-            git-repository, not any links or off-site information shared-within.
+    Written by: AZ (Aaron Zauner) »info@secondorderharmonics.eu« [@ 03&04/12/2025]
+      © 2𝑓 — Second Order Harmonics (2025) » Analogue Sound for the Digital Age        
+             Licensing: MIT License [see 'LICENSE'-File]. Only relating to this 
+             git-repository, not any links or off-site information shared-within.
