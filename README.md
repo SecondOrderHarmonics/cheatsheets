@@ -57,16 +57,16 @@ _needs to be updated once a better document structure has evolved_
 ### Simulation Software & Measurement
 <sub>[LTSpice and now QSpice are particularly suited for audio circuits due to the types of components, measurements and simulations they support. QSpice seems to add Macros/Programmability and an updated GUI & feature-set. Quite new but promising. Most of the industry doesn't use Ngspice and F/OSS Projects like Qucs are effectively dead. But "LiveSPICE" (see below) give a bit of hope for audio-tailored SPICE simulations as open-source. Practically all SPICE Programs that aren't F/OSS are free for public use and don't incurr cost on the end-user (apart from maybe a website registration). That being said: read the fine print when it comes to commercial product manufacture!]</sub>
 
-- [SPICE](https://en.wikipedia.org/wiki/SPICE) [note: "Simulation Program with Integrated Circuit Emphasis"]
-  1. [Ngspice](https://ngspice.sourceforge.io/) [note: most commonly used open-source version]
+- [SPICE](https://en.wikipedia.org/wiki/SPICE) <sup>[note: "Simulation Program with Integrated Circuit Emphasis"]</sup>
+  1. [Ngspice](https://ngspice.sourceforge.io/) <sup>[note: most commonly used open-source version]</sup>
      * [Ngspice User’s Manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf)
-  2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) [note: most commonly used version in the industry]
+  2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) <sup>[note: most commonly used version in the industry]</sup>
      * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
-  3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) [note: new+promising, very similar to LTSpice, modernized, new featrues (incl. embedded C/C++ / Verilog), tools for simple component/param. import] 
-  4. [LiveSPICE](https://www.livespice.org/) [note: interesting, but early days, aims to provide DAW-integration via VST-plugin "a SPICE-like circuit simulation tool for live audio signals", currently only ASIO-driver based (Win)]
-  5. ~~[Qucs](https://qucs.sourceforge.net/) [note: seems to be no longer maintained (2017)]~~
-  6. [QucsStudio](https://qucsstudio.de/) [note: fork of Qucs, not compatible]
-  7. [MacSpice 3](https://www.macspice.com/) [note: seems maintained, but I do not know of any users]
+  3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) <sup>[note: new+promising, very similar to LTSpice, modernized, new featrues (incl. embedded C/C++ / Verilog), tools for simple component/param. import]</sup>
+  4. [LiveSPICE](https://www.livespice.org/) <sup>[note: interesting, but early days, aims to provide DAW-integration via VST-plugin "a SPICE-like circuit simulation tool for live audio signals", currently only ASIO-driver based (Win)]</sup>
+  5. ~~[Qucs](https://qucs.sourceforge.net/) <sup>[note: seems to be no longer maintained (2017)]</sup>~~
+  6. [QucsStudio](https://qucsstudio.de/) <sup>[note: fork of Qucs, not compatible]</sup>
+  7. [MacSpice 3](https://www.macspice.com/) <sup>[note: seems maintained, but I do not know of any users]</sup>
      * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
  - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
  - [Pad Attenuator (Pi, Tee, & Bridged-Tee) Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pad-attenuator-calculator)
@@ -88,13 +88,13 @@ _needs to be updated once a better document structure has evolved_
 #### Housing & Front-panel Manufacture
 1. [Lansig](https://www.lansing-enclosures.com/)
 2. [CollectiveCases](https://collectivecases.com/)
-3. [FrontPanels.de](https://shop.frontpanels.de/) [note: Frontpanels & Housings, customized]
+3. [FrontPanels.de](https://shop.frontpanels.de/) <sup>[note: Frontpanels & Housings, customized]</sup>
 4. [AudioPhonics.fr](https://www.audiophonics.fr/en/diy-enclosures-and-cases-c-6336.html)
-5. Tube Town:
-  + [Faceplaces (Tube Town)](https://www.tubetown.net/ttstore/en/faceplates/)
-  * [Chassis (Tube Town)](https://www.tubetown.net/ttstore/en/chassis-shop/)
-6. [JLC3DP](https://jlc3dp.com/3d-models/category/Enclosure) [note: also JLCCNC / PCB have front panel options and articles on the topic]
-7. Aliexpress: search for shielded PCB housings and you'll find massive amounts, incl. custom engraved/drilled ones (often free) if you buy in bulk or at a higher quantity 
+5. [Tube Town](https://www.tubetown.net)
+   * [Faceplaces](https://www.tubetown.net/ttstore/en/faceplates/)
+   * [Chassis](https://www.tubetown.net/ttstore/en/chassis-shop/)
+6. [JLC3DP](https://jlc3dp.com/3d-models/category/Enclosure) <sup>[note: also JLCCNC / PCB have front panel options and articles on the topic]</sup>
+7. [Aliexpress](https://AliExpress.com) <sup>[note: search for shielded PCB housings and you'll find massive amounts, incl. custom engraved/drilled ones (often free) if you buy in bulk or at a higher quantity]</sup>
 
 
 ## Video Blogs (aka Youtube / Vimeo etc.) / Podcasts
