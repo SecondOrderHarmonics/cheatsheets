@@ -83,6 +83,17 @@ _needs to be updated once a better document structure has evolved_
 - [PCB Design For Manufacture Tutorial (EEVblog #127)](https://www.eevblog.com/2010/11/15/eevblog-127-pcb-design-for-manufacture-tutorial/)
 - [DFM Automated PCB Panel Testing (EEVblog #552)](https://www.eevblog.com/2013/11/29/eevblog-552-dfm-automated-pcb-panel-testing/)
 - [Unlocking PCB Thermal Management: Enhance with Thermal Relief Pads (LCSC)](https://www.lcsc.com/blog/unlocking-pcb-thermal-management/)
+#### Housing & Front-panel Manufacture
+1. [Lansig](https://www.lansing-enclosures.com/)
+2. [CollectiveCases](https://collectivecases.com/)
+3. [FrontPanels.de](https://shop.frontpanels.de/) [note: Frontpanels & Housings, customized]
+4. [AudioPhonics.fr](https://www.audiophonics.fr/en/diy-enclosures-and-cases-c-6336.html)
+5. Tube Town:
+  + [Faceplaces (Tube Town)](https://www.tubetown.net/ttstore/en/faceplates/)
+  * [Chassis (Tube Town)](https://www.tubetown.net/ttstore/en/chassis-shop/)
+6. [JLC3DP](https://jlc3dp.com/3d-models/category/Enclosure) [note: also JLCCNC / PCB have front panel options and articles on the topic]
+7. Aliexpress: search for shielded PCB housings and you'll find massive amounts, incl. custom engraved/drilled ones (often free) if you buy in bulk or at a higher quantity 
+
 
 ## Video Blogs (aka Youtube / Vimeo etc.) / Podcasts
 ### EEVBlog (Dave Jones)
