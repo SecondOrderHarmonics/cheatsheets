@@ -55,7 +55,7 @@ _needs to be updated once a better document structure has evolved_
 - [Samacsys Library Loader - ZIP File](https://componentsearchengine.com/LibraryLoader.php)
 
 ### Simulation Software & Measurement
-- [SPICE](https://en.wikipedia.org/wiki/SPICE) 
+- [SPICE](https://en.wikipedia.org/wiki/SPICE) [note: "Simulation Program with Integrated Circuit Emphasis"]
   1. [Ngspice](https://ngspice.sourceforge.io/)
      * [Ngspice User’s Manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf)
   2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
