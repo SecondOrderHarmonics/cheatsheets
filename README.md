@@ -65,7 +65,7 @@ _needs to be updated once a better document structure has evolved_
   3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) <sup>[note: new+promising, very similar to LTSpice, modernized, new featrues (incl. embedded C/C++ / Verilog), tools for simple component/param. import]</sup>
   4. [LiveSPICE](https://www.livespice.org/) <sup>[note: interesting, but early days, aims to provide DAW-integration via VST-plugin "a SPICE-like circuit simulation tool for live audio signals", currently only ASIO-driver based (Win)]</sup>
   5. ~~[Qucs](https://qucs.sourceforge.net/) <sup>[note: seems to be no longer maintained (2017)]</sup>~~
-  6. [QucsStudio](https://qucsstudio.de/) <sup>[note: fork of Qucs, not compatible]</sup>
+  6. [QucsStudio](https://qucsstudio.de/) <sup>[note: fork of Qucs, not compatible (Win)]</sup>
   7. [MacSpice 3](https://www.macspice.com/) <sup>[note: seems maintained, but I do not know of any users]</sup>
      * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
  - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
@@ -78,6 +78,7 @@ _needs to be updated once a better document structure has evolved_
    - [ADIsimDDS (Direct Digital Synthesis)](https://tools.analog.com/en/simdds/)
    - [Photodiode Circuit Design Wizard](https://tools.analog.com/en/photodiode/)
 - [Cascade Analysis Calculator (Active / Passive) (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/cascade-calculator)
+
 #### PCBA/SMT Layout, PnP, Panelizing, Manufacture
 - [PCB Trace Power Handling Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pcb-trace-power-handling-calculator)
 - [PCB Panelization (JLCPCB)](https://jlcpcb.com/help/article/pcb-panelization)
@@ -85,6 +86,7 @@ _needs to be updated once a better document structure has evolved_
 - [PCB Design For Manufacture Tutorial (EEVblog #127)](https://www.eevblog.com/2010/11/15/eevblog-127-pcb-design-for-manufacture-tutorial/)
 - [DFM Automated PCB Panel Testing (EEVblog #552)](https://www.eevblog.com/2013/11/29/eevblog-552-dfm-automated-pcb-panel-testing/)
 - [Unlocking PCB Thermal Management: Enhance with Thermal Relief Pads (LCSC)](https://www.lcsc.com/blog/unlocking-pcb-thermal-management/)
+
 #### Housing & Front-panel Manufacture
 1. [Lansig](https://www.lansing-enclosures.com/)
 2. [CollectiveCases](https://collectivecases.com/)
