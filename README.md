@@ -66,7 +66,7 @@ _needs to be updated once a better document structure has evolved_
   4. [LiveSPICE](https://www.livespice.org/) [note: interesting project, early days, says "a SPICE-like circuit simulation tool for live audio signals"]
   5. ~~[Qucs](https://qucs.sourceforge.net/) [note: seems to be no longer maintained (2017)]~~
   6. [QucsStudio](https://qucsstudio.de/) [note: fork of Qucs, not compatible]
-  7. [MacSpice 3](https://www.macspice.com/)
+  7. [MacSpice 3](https://www.macspice.com/) [note: seems maintained, but I do not know of any users]
      * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
  - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
  - [Pad Attenuator (Pi, Tee, & Bridged-Tee) Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pad-attenuator-calculator)
