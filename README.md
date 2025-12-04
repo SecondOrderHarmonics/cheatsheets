@@ -93,7 +93,7 @@ _needs to be updated once a better document structure has evolved_
 5. [Tube Town](https://www.tubetown.net)
    * [Faceplaces](https://www.tubetown.net/ttstore/en/faceplates/)
    * [Chassis](https://www.tubetown.net/ttstore/en/chassis-shop/)
-6. [JLC3DP](https://jlc3dp.com/3d-models/category/Enclosure) <sup>[note: also JLCCNC / PCB have front panel options and articles on the topic]</sup>
+6. [JLC3DP - 3D Models: Enclosures](https://jlc3dp.com/3d-models/category/Enclosure) <sup>[note: also JLCCNC / PCB have front panel options and articles on the topic]</sup>
 7. [Aliexpress](https://AliExpress.com) <sup>[note: search for shielded PCB housings and you'll find massive amounts, incl. custom engraved/drilled ones (often free) if you buy in bulk or at a higher quantity]</sup>
 
 
