@@ -63,13 +63,16 @@
 - [Samacsys Library Loader - ZIP File](https://componentsearchengine.com/LibraryLoader.php)
 
 ### Simulation Software & Measurement
-- [SPICE](https://en.wikipedia.org/wiki/SPICE)
+- [SPICE](https://en.wikipedia.org/wiki/SPICE) 
   1. [Ngspice](https://ngspice.sourceforge.io/)
      * [Ngspice User’s Manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf)
   2. [LTSpice (Aanalog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
      * [LTSpice Basics](https://www.analog.com/en/resources/media-center/videos/series/ltspice-basics-video-series.html)
   3. [QSpice (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/qspice)
-  4. [MacSpice 3](https://www.macspice.com/)
+  4. [LiveSPICE](https://www.livespice.org/) [note: "a SPICE-like circuit simulation tool for live audio signals"]
+  5. [Qucs](https://qucs.sourceforge.net/) [note: seems to be no longer maintained (2017)]
+      * [QucsStudio](https://qucsstudio.de/) [note: fork of Qucs, not backwards compatible]
+  7. [MacSpice 3](https://www.macspice.com/)
      * [QuickStart Guide for QSPICE® Simulation Tool](https://www.qorvo.com/design-hub/videos/quickstart-guide-for-qspice-simulation-tool)
  - [dBm-Volts-Watts Conversion (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/dbm-volts-watts-conversion)
  - [Pad Attenuator (Pi, Tee, & Bridged-Tee) Calculator (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/pad-attenuator-calculator)
