@@ -5,15 +5,7 @@
 ----
 
 ### Table of Contents:
-- [Design Tools & Online Calculators](#design-tools--online-calculators)
-  * [Signal Chains](#signal-chains)
-  * [Filters](#filters)
-  * [Inductors / Transformers / (PSUs)](#inductors--transformers--psus)
-- [Video Blogs / Podcasts](#video-blogs-aka-youtube--vimeo-etc--podcasts)
-  * [EEVBlog](#eevblog-dave-jones)
-- [Articles, Posts & References ](#articles-posts--references)
-  * [ESP - Elliott Sound Products - sound-au.com](#esp-elliott-sound-products---sound-aucom)
-  * [Fun with Tubes](#fun-with-tubes-max-robinson) 
+_needs to be updated once a better document structure has evolved_
 
 -----
 
