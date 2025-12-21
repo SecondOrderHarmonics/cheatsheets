@@ -104,14 +104,10 @@ _needs to be updated once a better document structure has evolved_
 <sub>[Deserves it's own mention right smack in the middle. I'll link the channel and over time specific videos on fundamentals and specific topics of interest (lab setup, PSUs, measurement, repair etc.)]</sub>
 -  https://www.youtube.com/eevblog (https://www.eevblog.com)
 
-### Hans Rosenberg
-- [Why Your Ground Design is WRONG — and How to Fix It
-](https://www.youtube.com/watch?v=XD1jqFaA-uI)
-    * Part of the 15-part "[Flawless electronics design](https://www.youtube.com/playlist?list=PLsWHPs7La-3KUY2JDUyrz0Jc0xw8kH4zQ)" playlist
-- [The Easiest Way to Fix Grounding Issues in 2-Layer PCBs](https://www.youtube.com/watch?v=nsDzvE8TeQo)
-
 ### Texas Instruments (TI)
-- [TI Precision Labs – Op Amps curriculum that addresses operational amplifier input and output limitations](https://www.youtube.com/playlist?list=PLISmVLHAZbTSXh63T4ftEFkDBDZ2b0d7c) <sup>[note: 7-Part playlist]</sup>
+- [TI Precision Labs- Op Amps](https://www.youtube.com/playlist?list=PLISmVLHAZbTQHeU4p4VxSIfC9f0IZPXGr) <sup>[note: complete 42-part course/playlist]</sup>
+   *  [TI Precision Labs – Op Amps- input and output limitations](https://www.youtube.com/playlist?list=PLISmVLHAZbTSXh63T4ftEFkDBDZ2b0d7c) <sup>[note: 7-Part playlist]</sup>
+   *  [TI Precision Labs- Op Amps- Noise](https://www.youtube.com/playlist?list=PLISmVLHAZbTTDLx9fFteXntj2zsJqVRvN) <sup>[note: 9-Part playlist]</sup>
 
 ### Rhode & Schwarz
 - [Understanding Common Mode Rejection Ratio](https://www.youtube.com/watch?v=xjFkwcELzwA)
@@ -119,6 +115,13 @@ _needs to be updated once a better document structure has evolved_
 ### 'Vocademy - Electronics Technology'
 - [A Quick Look at Decibels](https://www.youtube.com/watch?v=aiEI8KiuVT8)
 - [Small Signal Amplifiers](https://www.youtube.com/watch?v=WgOKPF8LkA8)
+
+### Hans Rosenberg
+- [Why Your Ground Design is WRONG — and How to Fix It
+](https://www.youtube.com/watch?v=XD1jqFaA-uI)
+    * Part of the 15-part "[Flawless electronics design](https://www.youtube.com/playlist?list=PLsWHPs7La-3KUY2JDUyrz0Jc0xw8kH4zQ)" playlist
+- [The Easiest Way to Fix Grounding Issues in 2-Layer PCBs](https://www.youtube.com/watch?v=nsDzvE8TeQo)
+
 
 ## Online Forums & discussion portals on (analog) audio design/engineering
 - **[GroupDIY](https://groupdiy.com/)** <sup>[note: a lot of OSHW projects, many DIY Kit designers provide support for a given Kit in their own threads, design questions, large builds, vintage research etc.]</sup>
