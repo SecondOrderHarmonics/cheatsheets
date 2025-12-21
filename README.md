@@ -112,6 +112,7 @@ _needs to be updated once a better document structure has evolved_
 
 ### Rhode & Schwarz
 - [Understanding Common Mode Rejection Ratio](https://www.youtube.com/watch?v=xjFkwcELzwA)
+- [Understanding Signal Integrity](https://www.youtube.com/watch?v=anX8QZMhVjI)
 
 ### 'Vocademy - Electronics Technology'
 - [A Quick Look at Decibels](https://www.youtube.com/watch?v=aiEI8KiuVT8)
