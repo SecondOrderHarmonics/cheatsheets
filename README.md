@@ -25,6 +25,7 @@ _needs to be updated once a better document structure has evolved_
 - [RF Impedance Matching Calculator (Analog Devices)](https://www.analog.com/en/resources/interactive-design-tools/rf-impedance-matching-calculator.html)
 - [Complex Impedance Calculator (Fair-rite)](https://fair-rite.com/complex-impedance-calculator/)
 - [Calculator Dashboard (Fair-Rite)](https://fair-rite.com/calculator-dashboard/) <sup>[note: various; impedence, toroid, power-handling, bobbin, rod-permeability]</sup>
+- [spiki - spirals for KiCad](https://github.com/in3otd/spiki) <sup>[note: "a simple application to generate a KiCad footprint (module) for spiral inductors on the PCB"]</sup>
 
 ### Power & Thermal
 - [EE-Sim® Power Tools (Analog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ee-sim.html)
