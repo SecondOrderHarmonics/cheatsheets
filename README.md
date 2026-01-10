@@ -56,6 +56,11 @@ _needs to be updated once a better document structure has evolved_
 - [Samacsys Library Loader - ZIP File](https://componentsearchengine.com/LibraryLoader.php)
 
 ### Simulation Software & Measurement
+
+#### Online Circuit Simulators/Tools
+- [CircuitJs from Falstad](https://falstad.com/circuit/circuitjs.html) <sup>[note: online JS circuit simulator with limitations]
+
+#### SPICE Simulations
 <sub>[LTSpice and now QSpice are particularly suited for audio circuits due to the types of components, measurements and simulations they support. QSpice seems to add Macros/Programmability and an updated GUI & feature-set. Quite new but promising. Most of the industry doesn't use Ngspice and F/OSS Projects like Qucs are effectively dead. But "LiveSPICE" (see below) give a bit of hope for audio-tailored SPICE simulations as open-source. Practically all SPICE Programs that aren't F/OSS are free for public use and don't incurr cost on the end-user (apart from maybe a website registration). That being said: read the fine print when it comes to commercial product manufacture!]</sub>
 
 - [SPICE](https://en.wikipedia.org/wiki/SPICE) <sup>[note: "Simulation Program with Integrated Circuit Emphasis"]</sup>
