@@ -46,6 +46,67 @@ _needs to be updated once a better document structure has evolved_
 - [Precision DAC Error Budget Calculator (Analog Devices)](https://tools.analog.com/en/dacerrorbudget/)
 - [Precision ADC Driver Tool (Analog Devices)](https://tools.analog.com/en/adcdriver/)
 
+
+## Books & Articles
+
+- [Op Amp Applications Handbook, Edited by Walt Jung, Published by Newnes/Elsevier, 2005, ISBN-0-7506-7844-5 (Analog Devices)](https://www.analog.com/en/resources/technical-books/op-amp-applications-handbook.html)
+## Articles, Posts & References 
+<sub>[from fundamentals to advanced design, production, manufacture and measurement]</sub>
+
+### Open access to closed papers and books
+<sub>[we shoudln't advertise this here, but it's the reality that access to many publications and journals outside of working at a university or being a student is not affordable, with a lot of basic textbooks costing multiple hundered USD and even old classics in EE often more than 80 EUR. Access to regular publications that makes economic sense is a completely different topic and, actually, far worse.]</sub>
+- [Sci-Hub](https://sci-hub.se/)
+- Google various "PDFDrive" sites for full engineering / topic specific books
+
+### Various Articles, Posts, Talks
+- [Harmonics - THD+N (NI)](https://www.ni.com/docs/en-US/bundle/rfmx-specan/page/harmonics.html)
+- [Simple RF Circuit Design (Michael Ossman)](https://www.youtube.com/watch?v=TnRn3Kn_aXg)
+    * [BlackHat Asia 2016: Rapid Radio Reversing (Michael Ossmann)](https://www.youtube.com/watch?v=8kIxlMIGctc) ([Paper](https://greatscottgadgets.com/tr/gsg-tr-2016-1.pdf))
+- [An ultra low-distortion oscillator with THD below -140 dB](http://www.janascard.cz/PDF/An%20ultra%20low%20distortion%20oscillator%20with%20THD%20below%20-140%20dB.pdf) ([PCB/Finished Product](http://www.janascard.cz/aj_Vyrobky.html))
+   * Going back to (AFAIK, please open an issue/write if I've been mislead): [Low-distortion Audio-range Oscillator - 2012/01 (diyaudio)](https://www.diyaudio.com/community/threads/low-distortion-audio-range-oscillator.205304/)
+
+### ESP (Elliott Sound Products) - sound-au.com
+1. [Elliott Sound Products - The Audio Pages](https://sound-au.com/articles/index.htm) <sup>[note: index, from very basics to advaced topics]</sup>
+   *   [Beginners Guide](https://sound-au.com/articles/index.htm#begl) <sup>[note: recommended reading for new-comers!]</sup>
+   *   [Electrical Safety](https://sound-au.com/articles/index.htm#safl) 
+   *   [Components & Use](https://sound-au.com/articles/index.htm#comp) <sup>[note: good intro/description on component values, TH vs SMD]</sup>
+   *   [Test & Measurement](https://sound-au.com/articles/index.htm#test)
+   *   [General Information](https://sound-au.com/articles/index.htm#geni) <sup>[note: myths in audio(phile) non-sense etc. explained] </sup>
+   *   [Design Guidelines](https://sound-au.com/articles/index.htm#desi)
+   *   [Power Supply Design](https://sound-au.com/articles/index.htm#psud) <sup>[note: worth reading up on; linear vs. switching (SMPS) in audio - background on: inrush currents, isolation, traffos etc.]</sup>
+   *   [Amplification](https://sound-au.com/articles/index.htm#ampl) 
+   *   [Cables](https://sound-au.com/articles/index.htm#cabl) <sup>[note: interconnects, coax, impedence, shielding, balanced vs. unbalanced etc.]</sup>
+2. [ESP: **Valves / Tubes**](https://sound-au.com/valves/index.html) 
+   *   [**Valves (Vacuum Tubes) - A Primer**](https://sound-au.com/valves/valveintro.html) <sup>[note: topic intro]</sup>
+   *   [Valve Amplifiers](https://sound-au.com/hfr_be.htm)
+   *   Valve (Vacuum Tube) **Amplifier Design Considerations**
+        - [Part 1](https://sound-au.com/valves/design.html)
+        - [Part 2](https://sound-au.com/valves/design2.html)
+  *   [Valves / Tubes: **Preamps**](https://sound-au.com/valves/preamps.html)
+  *   [Valves / Tubes: **Classes of Operation**](https://sound-au.com/valves/classes.html)
+  *   [Valves / Tubes: **Biasing and Gain**](https://sound-au.com/valves/bias-gain.html)
+  *   [Valves / Tubes: **Harmonic and Intermodulation Distortion**](https://sound-au.com/valves/thd-imd.html)
+  *   [**Valve Stage Analysis**](https://sound-au.com/valves/analysis.html)
+  *   [High Voltage DC Supply](https://sound-au.com/project151.htm) <sup>[note: design project. many projects have ready-to-order PCBs, check his site!]</sup>
+3. [ESP Application Notes](https://sound-au.com/appnotes/index.html) <sup>[note: various. from converters, motors, detection circuits and analog meters to high-power zener diodes]</sup>
+
+
+### "Fun with Tubes" (Max Robinson)
+1. Index: [Fun With Tubes](https://www.angelfire.com/electronic/funwithtubes/)
+2. Fundamentals
+  - [DC Circuits Basics / Cheat-sheet](https://www.angelfire.com/electronic/funwithtubes/Basics_01_DC_Circs.html)
+  - [AC Circuits Basics / Cheat-sheet](https://www.angelfire.com/electronic/funwithtubes/Basics_02_AC_Circs.html)
+  - [Grounds](https://www.angelfire.com/electronic/funwithtubes/Grounds.html)
+3. Vacuum Tubes
+  - [Vacuum Diodes](https://www.angelfire.com/electronic/funwithtubes/Basics_03_Diodes.html)
+  - [Vacuum Triodes](https://www.angelfire.com/electronic/funwithtubes/Basics_04_Triodes.html)
+  - [Multi-grid Tubes](https://www.angelfire.com/electronic/funwithtubes/Basics_05_Multigrid.html)
+4. Instruments / Lab Equipment
+  - [Bench Power Supplies](https://www.angelfire.com/electronic/funwithtubes/bench_psu.html) <sup>[note: somewhat dated, but good theory. for SMPSs check EEVBlog and ESP/sound-au]</sup>
+
+
+
+
 ## Circuit Design, Simulation Software & PCB/SMT Manufacture Resources
 
 ### ECAD Software and Resources
@@ -135,60 +196,6 @@ _needs to be updated once a better document structure has evolved_
    * "[GroupDIY Rules: Read before posting in any of the forums!](https://groupdiy.com/threads/groupdiy-rules-read-before-posting-in-any-of-the-forums.6650/)"
    * "[Meta-Meta: Look here for overview..](https://groupdiy.com/threads/meta-meta-look-here-for-overview.16013/)"
 - **[diyaudio](https://www.diyaudio.com/community/)** <sup>[note: more focused on general audio engineering, some great DIY build write-ups (people building their own consoles etc.!)]</sup>
-
-## Articles, Posts & References 
-<sub>[from fundamentals to advanced design, production, manufacture and measurement]</sub>
-
-### Open access to closed papers and books
-<sub>[we shoudln't advertise this here, but it's the reality that access to many publications and journals outside of working at a university or being a student is not affordable, with a lot of basic textbooks costing multiple hundered USD and even old classics in EE often more than 80 EUR. Access to regular publications that makes economic sense is a completely different topic and, actually, far worse.]</sub>
-- [Sci-Hub](https://sci-hub.se/)
-- Google various "PDFDrive" sites for full engineering / topic specific books
-
-### Various Articles, Posts, Talks
-- [Harmonics - THD+N (NI)](https://www.ni.com/docs/en-US/bundle/rfmx-specan/page/harmonics.html)
-- [Simple RF Circuit Design (Michael Ossman)](https://www.youtube.com/watch?v=TnRn3Kn_aXg)
-    * [BlackHat Asia 2016: Rapid Radio Reversing (Michael Ossmann)](https://www.youtube.com/watch?v=8kIxlMIGctc) ([Paper](https://greatscottgadgets.com/tr/gsg-tr-2016-1.pdf))
-- [An ultra low-distortion oscillator with THD below -140 dB](http://www.janascard.cz/PDF/An%20ultra%20low%20distortion%20oscillator%20with%20THD%20below%20-140%20dB.pdf) ([PCB/Finished Product](http://www.janascard.cz/aj_Vyrobky.html))
-   * Going back to (AFAIK, please open an issue/write if I've been mislead): [Low-distortion Audio-range Oscillator - 2012/01 (diyaudio)](https://www.diyaudio.com/community/threads/low-distortion-audio-range-oscillator.205304/)
-
-### ESP (Elliott Sound Products) - sound-au.com
-1. [Elliott Sound Products - The Audio Pages](https://sound-au.com/articles/index.htm) <sup>[note: index, from very basics to advaced topics]</sup>
-   *   [Beginners Guide](https://sound-au.com/articles/index.htm#begl) <sup>[note: recommended reading for new-comers!]</sup>
-   *   [Electrical Safety](https://sound-au.com/articles/index.htm#safl) 
-   *   [Components & Use](https://sound-au.com/articles/index.htm#comp) <sup>[note: good intro/description on component values, TH vs SMD]</sup>
-   *   [Test & Measurement](https://sound-au.com/articles/index.htm#test)
-   *   [General Information](https://sound-au.com/articles/index.htm#geni) <sup>[note: myths in audio(phile) non-sense etc. explained] </sup>
-   *   [Design Guidelines](https://sound-au.com/articles/index.htm#desi)
-   *   [Power Supply Design](https://sound-au.com/articles/index.htm#psud) <sup>[note: worth reading up on; linear vs. switching (SMPS) in audio - background on: inrush currents, isolation, traffos etc.]</sup>
-   *   [Amplification](https://sound-au.com/articles/index.htm#ampl) 
-   *   [Cables](https://sound-au.com/articles/index.htm#cabl) <sup>[note: interconnects, coax, impedence, shielding, balanced vs. unbalanced etc.]</sup>
-2. [ESP: **Valves / Tubes**](https://sound-au.com/valves/index.html) 
-   *   [**Valves (Vacuum Tubes) - A Primer**](https://sound-au.com/valves/valveintro.html) <sup>[note: topic intro]</sup>
-   *   [Valve Amplifiers](https://sound-au.com/hfr_be.htm)
-   *   Valve (Vacuum Tube) **Amplifier Design Considerations**
-        - [Part 1](https://sound-au.com/valves/design.html)
-        - [Part 2](https://sound-au.com/valves/design2.html)
-  *   [Valves / Tubes: **Preamps**](https://sound-au.com/valves/preamps.html)
-  *   [Valves / Tubes: **Classes of Operation**](https://sound-au.com/valves/classes.html)
-  *   [Valves / Tubes: **Biasing and Gain**](https://sound-au.com/valves/bias-gain.html)
-  *   [Valves / Tubes: **Harmonic and Intermodulation Distortion**](https://sound-au.com/valves/thd-imd.html)
-  *   [**Valve Stage Analysis**](https://sound-au.com/valves/analysis.html)
-  *   [High Voltage DC Supply](https://sound-au.com/project151.htm) <sup>[note: design project. many projects have ready-to-order PCBs, check his site!]</sup>
-3. [ESP Application Notes](https://sound-au.com/appnotes/index.html) <sup>[note: various. from converters, motors, detection circuits and analog meters to high-power zener diodes]</sup>
-
-
-### "Fun with Tubes" (Max Robinson)
-1. Index: [Fun With Tubes](https://www.angelfire.com/electronic/funwithtubes/)
-2. Fundamentals
-  - [DC Circuits Basics / Cheat-sheet](https://www.angelfire.com/electronic/funwithtubes/Basics_01_DC_Circs.html)
-  - [AC Circuits Basics / Cheat-sheet](https://www.angelfire.com/electronic/funwithtubes/Basics_02_AC_Circs.html)
-  - [Grounds](https://www.angelfire.com/electronic/funwithtubes/Grounds.html)
-3. Vacuum Tubes
-  - [Vacuum Diodes](https://www.angelfire.com/electronic/funwithtubes/Basics_03_Diodes.html)
-  - [Vacuum Triodes](https://www.angelfire.com/electronic/funwithtubes/Basics_04_Triodes.html)
-  - [Multi-grid Tubes](https://www.angelfire.com/electronic/funwithtubes/Basics_05_Multigrid.html)
-4. Instruments / Lab Equipment
-  - [Bench Power Supplies](https://www.angelfire.com/electronic/funwithtubes/bench_psu.html) <sup>[note: somewhat dated, but good theory. for SMPSs check EEVBlog and ESP/sound-au]</sup>
 
 
 -------
