@@ -11,10 +11,12 @@ _needs to be updated once a better document structure has evolved_
 
 
 ## Design Tools & Online Calculators (components, parameters, layouts)
+
 ### Signal Chains
 - [Signal Chain Designer (Analog Devices)](https://tools.analog.com/en/signalchaindesigner/)
   
 ### Filters
+- [WEBENCH-CIRCUIT-DESIGNER (TI)](https://www.ti.com/tool/WEBENCH-CIRCUIT-DESIGNER)<sup>[note: WEBENCH® Power designer, Powerstage designer, Filter design tool, PCB thermal calculator]</sup>
 - [Filter Lab (Microchip)](https://filterlab.microchip.com/filter)
 - [Analog Filter Wizard (Analog Devices)](https://tools.analog.com/en/filterwizard/)
 - [Microstrip Filter Design Tool (Markimicrowave)](https://markimicrowave.com/technical-resources/tools/microstrip-filter-design-tool)
@@ -31,6 +33,7 @@ _needs to be updated once a better document structure has evolved_
 - [EE-Sim® Power Tools (Analog Devices)](https://www.analog.com/en/resources/design-tools-and-calculators/ee-sim.html)
   1. [EE-SIM Design and Simulation Environment (Analog Devices)](https://www.analog.com/media/en/technical-documentation/user-guides/eesim-design-and-simulation-environment-user-guide.pdf)
 - [EE-Sim Solution Finder (Analog Devices)](https://tools.analog.com/en/eesim/)
+- [WEBENCH-CIRCUIT-DESIGNER (TI)](https://www.ti.com/tool/WEBENCH-CIRCUIT-DESIGNER)<sup>[note: WEBENCH® Power designer, Powerstage designer, Filter design tool, PCB thermal calculator]</sup>
 - [Noise Figure Temperature (Qorvo)](https://www.qorvo.com/design-hub/design-tools/interactive/noise-figure-and-noise-temperature-calculator)
 - [LTpowerCAD and LTpowerPlanner (Analog Devices](https://www.analog.com/en/lp/ltpowercad.html)
   1. [LTpowerCAD II Quick Start (Analog Devices)](https://www.analog.com/media/en/simulation-models/software-and-simulation/LTpowerCADIIQuickStart.pdf)
